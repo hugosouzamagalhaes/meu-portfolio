@@ -1,16 +1,18 @@
-# React + Vite
+# Portfólio — Hugo Magalhães
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site pessoal para apresentar minha formação, meus projetos e meus interesses em computação, matemática e pesquisa acadêmica.
 
-Currently, two official plugins are available:
+## Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- [React](https://react.dev/) para a interface
+- [Vite](https://vite.dev/) como ferramenta de desenvolvimento e build
+- CSS puro, sem bibliotecas de estilo
+- Fontes: Space Grotesk, Inter e DM Mono (Google Fonts)
 
-## React Compiler
+O site é estático: não há backend. O Node.js é usado apenas para rodar o Vite durante o desenvolvimento e gerar os arquivos finais.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## Contato
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- GitHub: [hugosouzamagalhaes](https://github.com/hugosouzamagalhaes)
+- LinkedIn: [hugosmagalhaes](https://www.linkedin.com/in/hugosmagalhaes/)
