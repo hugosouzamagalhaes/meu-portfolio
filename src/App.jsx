@@ -87,7 +87,7 @@ function Header() {
         <span className="avatar">
           HM
           <img
-            src="/foto.jpg"
+            src={`${import.meta.env.BASE_URL}foto.jpg`}
             alt="Foto de Hugo"
             onError={(e) => { e.currentTarget.style.display = 'none' }}
           />
