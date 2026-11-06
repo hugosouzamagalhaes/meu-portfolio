@@ -2,6 +2,8 @@
 
 Site pessoal para apresentar minha formação, meus projetos e meus interesses em computação, matemática e pesquisa acadêmica.
 
+Acesse aqui: [Link do site](https://hugosouzamagalhaes.github.io/meu-portfolio/)
+
 ## Tecnologias
 
 - [React](https://react.dev/) para a interface
